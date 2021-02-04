@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.6.0",
-    "devextreme": "^20.2.5",
+    "devextreme": "^20.2",
     "devextreme-react": "20.2",
     "glob": "^7.1.6",
     "path": "^0.12.7",
