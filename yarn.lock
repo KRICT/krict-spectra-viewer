@@ -1055,6 +1055,11 @@ webidl-conversions@^6.1.0:
   resolved "https://registry.yarnpkg.com/webidl-conversions/-/webidl-conversions-6.1.0.tgz#9111b4d7ea80acd40f5270d666621afa78b69514"
   integrity sha512-qBIvFLGiBpLjfwmYAaHPXsn+ho5xZnGvyGvsarywGNc8VyQJUMHJ8OBKGGrPER0okBeMDaan4mNBlgBROxuI8w==
 
+webix@^8.1.0:
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/webix/-/webix-8.1.0.tgz#1ff2b98806a0d851827094ae73ab844584e343cb"
+  integrity sha512-Ekyw+BIFyH9oGQfovCMRl1abjGEIsHu6uJsKWtgfI0EkZR36WiBIC9wiMX4XOClTehOZSYnPQiIJML+f9xWLng==
+
 whatwg-encoding@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/whatwg-encoding/-/whatwg-encoding-1.0.5.tgz#5abacf777c32166a51d085d6b4f3e7d27113ddb0"
