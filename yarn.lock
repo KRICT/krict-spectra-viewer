@@ -267,7 +267,7 @@ devextreme-react@20.2:
     dot "^1.1.2"
     prop-types "^15.6.1"
 
-devextreme@^20.2.5:
+devextreme@^20.2:
   version "20.2.5"
   resolved "https://registry.yarnpkg.com/devextreme/-/devextreme-20.2.5.tgz#8f2f7387cc3c3cb2650de41da19af857b489a5c7"
   integrity sha512-KPMq/y+zlPu3JOxdaV0TvqA9AzDKqljpuuhetLc9k6IFRTRhMa2yWiHvePp/FZmfWhumIDIj1AEVedUySDlCUQ==
@@ -516,6 +516,11 @@ isstream@~0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/isstream/-/isstream-0.1.2.tgz#47e63f7af55afa6f92e1500e690eb8b8529c099a"
   integrity sha1-R+Y/evVa+m+S4VAOaQ64uFKcCZo=
+
+jquery@^3.5.1:
+  version "3.5.1"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.5.1.tgz#d7b4d08e1bfdb86ad2f1a3d039ea17304717abb5"
+  integrity sha512-XwIBPqcMn57FxfT+Go5pzySnm4KWkT1Tv7gjrpT1srtf8Weynl6R273VJ5GjkRb51IzMp5nbaPjJXMWeju2MKg==
 
 "js-tokens@^3.0.0 || ^4.0.0":
   version "4.0.0"
