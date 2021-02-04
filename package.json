@@ -1,0 +1,9 @@
+{
+  "name": "krict_spectra_viewer",
+  "version": "0.0.1",
+  "description": "Korea Research Institute of Chemical Technology (KRICT)'s Spectra Viewer",
+  "main": "index.js",
+  "repository": "https://github.com/krict/",
+  "author": "Young-Mook Kang",
+  "license": "MIT"
+}
