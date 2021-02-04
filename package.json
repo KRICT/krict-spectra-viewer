@@ -9,6 +9,7 @@
   "dependencies": {
     "bootstrap": "^4.6.0",
     "devextreme": "^20.2.5",
+    "devextreme-react": "20.2",
     "glob": "^7.1.6",
     "path": "^0.12.7",
     "webix": "^8.1.0"
