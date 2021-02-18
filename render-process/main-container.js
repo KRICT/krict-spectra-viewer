@@ -6,7 +6,6 @@
 
 let theMainContainer = {
     id: "main_container",
-    type: "clean",
     rows: [
         {
             view: "toolbar",
@@ -14,7 +13,10 @@ let theMainContainer = {
                 {
                     view: "icon",
                     icon: "mdi mdi-menu",
-                    click: function () { },
+                    click: function () { 
+                        $$('primary_menu_sidebar').toggle();
+
+                    },
                 },
                 {
                     view: "label",
@@ -32,14 +34,12 @@ let theMainContainer = {
             ],
         },
         {
-            type: "clean",
             cols: [
                 {
                     rows: [
                         {
+                            id: "primary_menu_sidebar",
                             view: "sidebar",
-                            width: 225,
-                            titleHeight: 75,
                             data: [
                                 {
                                     id: "main-menu-dashboard",
