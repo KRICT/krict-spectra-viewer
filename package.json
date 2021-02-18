@@ -11,6 +11,7 @@
   "author": "Young-Mook Kang",
   "license": "MIT",
   "dependencies": {
+    "@mdi/font": "^5.9.55",
     "bootstrap": "^4.6.0",
     "devextreme": "^20.2",
     "devextreme-react": "20.2",
