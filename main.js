@@ -39,6 +39,7 @@ function createWindow() {
   mainWindow = new BrowserWindow({
     width: theDefaultSize[0],
     height: theDefaultSize[1],
+    //webPreferences: { nodeIntegration: true } // true로 설정
   });
   //mainWindow.maximize();
 
